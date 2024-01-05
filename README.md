@@ -16,14 +16,14 @@ Copy code
 Follow Program Instructions: The program provides a menu-driven interface for library management. 
 Follow on-screen instructions for different options.
 
--Features
--Add a book
--Delete a book
--Search for a book
--Issue a book
--View the list of books
--Modify a book
--Close the application
+-Features .
+-Add a book.
+-Delete a book.
+-Search for a book.
+-Issue a book.
+-View the list of books.
+-Modify a book.
+-Close the application.
 
 
 
